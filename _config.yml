@@ -1,3 +1,10 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#remote_theme: pages-themes/leap-day@v0.2.0
+#theme: jekyll-theme-hacker
+
+title: Usman Shahid
+description: Principal Software Engineer @ tkxel |AutoSoft Dynamics / Contour-Software  | Full Stack .Net Developer👨‍💻
+
+show_downloads: false
+#google_analytics: G-T8M8FBW7SY
+
+#google_analytics: UA-99327936-2
